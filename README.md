@@ -1,10 +1,5 @@
 # Universal x86 Tuning Utility
 
-[![Download Latest](https://img.shields.io/github/downloads/JamesCJ60/Universal-x86-Tuning-Utility/latest/total?style=flat-square&color=orange&label=Download%20Latest)](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility/releases/latest)
-[![Total Downloads](https://img.shields.io/github/downloads/JamesCJ60/Universal-x86-Tuning-Utility/total?style=flat-square&color=orange&label=Download%20Total)](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility/releases/latest)
-[![discord](https://img.shields.io/discord/772105072720871435?color=orange&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/9FeYVcbbUQ)
-[![Donations](https://img.shields.io/badge/PayPal-00457C?style=flat-square&color=orange&label=Donations&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/JamesCJ60)
-[![Support us on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Duxtusoftware%26type%3Dpatrons&style=flat-square&color=orange&label=Patreon&logoColor=white)](https://patreon.com/uxtusoftware)
 
 ![Github banner #2](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility/assets/20888782/2b3256b6-814e-47ca-bfa8-ff07636d63de)
 
